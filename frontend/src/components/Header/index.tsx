@@ -1,6 +1,6 @@
-import logo from  '../../assets/img/logo.svg'
+import logo from  '../../assets/img/logo.svg';
 
-import  './styles.css'
+import  './styles.css';
 
 function Header() {
     return (
@@ -11,7 +11,7 @@ function Header() {
             <h1>DSMeta</h1>
             <p>
                 Desenvolvido por
-                <a href="https://github.com/Vog10" >
+                <a href="https://github.com/Vog10">
                      @Vambaster Gomes
                 </a>
             </p>
@@ -23,4 +23,4 @@ function Header() {
 
 }
 
-export default Header
+export default Header;
