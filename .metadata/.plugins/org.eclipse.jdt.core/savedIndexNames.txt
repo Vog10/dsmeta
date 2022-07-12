@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/vog/Documentos/Projetos/dsmeta/.metadata/.plugins/org.eclipse.jdt.core
